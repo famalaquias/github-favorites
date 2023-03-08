@@ -7,13 +7,18 @@
 
 ## :page_with_curl: Sobre
  
-O Projeto To-do List trata-se de uma página web de uma lista de tarefas. O usuário poderá colocar na lista quantas itens quiser, além de marcá-los com concluídos, mudá-los de posição ou deletá-los.
+O Projeto Github Favorites trata-se de uma página web que busca os usuários do github atracés de uma API(Aplication Programming Interface). Você pode adicionar quantos usuários quiser e pode excluí-los também.
 
 
 ## :man_technologist: Habilidades Desenvolvidas
 
 - [x] Criar a estrutura do HTML
 - [x] Criar a estrutura do CSS
+- [x] Utilização de API
+- [x] Utilização de POO (Programação Orientada a Objetos)
+- [x] Utilização de classes e heranças
+- [x] Utilização async/await 
+- [x] Utilização do try/catch/throw
 - [x] Reagir a interações do usuário utilizando escutadores de eventos
 
 
@@ -24,7 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML5](https://biblioteca.wiki/html5/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [JavaScript ES6+](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Socket.IO](https://socket.io)
+- API
+- POO
 
 
 ---
