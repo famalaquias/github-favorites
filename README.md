@@ -1,4 +1,4 @@
-<h1 align="center">Github Favorites</h1>
+<h1 align="center">:star Github Favorites</h1>
 
 ![gitfavorites](https://user-images.githubusercontent.com/98343640/223823379-a78205d8-76b3-4f1c-b5d6-46c1e9ac9e7f.png)
 
@@ -6,7 +6,7 @@
 
 
 ## :page_with_curl: Sobre
-
+ 
 O Projeto To-do List trata-se de uma página web de uma lista de tarefas. O usuário poderá colocar na lista quantas itens quiser, além de marcá-los com concluídos, mudá-los de posição ou deletá-los.
 
 
