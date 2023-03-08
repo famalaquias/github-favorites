@@ -1,7 +1,7 @@
 <h1 align="center">⭐ Github Favorites</h1>
 
 <p align="center">
-  <img alt="project preview gif" src="./.github/preview.mp4" width="100%">
+  <img alt="project preview gif" src="./.github/preview.gif" width="100%">
 </p>
 
 ![gitfavorites](https://user-images.githubusercontent.com/98343640/223823379-a78205d8-76b3-4f1c-b5d6-46c1e9ac9e7f.png)
